@@ -8,3 +8,5 @@
 ### Some paper in the project 
 CRNN: https://arxiv.org/pdf/1507.05717.pdf
 CTC: https://www.cs.toronto.edu/~graves/icml_2006.pdf
+
+![alt text](https://github.com/moto8xpk/DataExtractionJejuMLCamp/blob/master/photo/cropped-image.png)
